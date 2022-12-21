@@ -61,7 +61,7 @@ li:first-letter {
 .weather-temperature .units {
   position: relative;
   font-size: 16px;
-  top: -34px;
+  top: 34px;
 }
 
 .weather-temperature .active {
